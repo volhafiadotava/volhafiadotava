@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**volhafiadotava/volhafiadotava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Volha Fiadotava**, a **Data Analytics Consultant** with a passion for turning complex data into meaningful insights.  
+I bring experience across **finance**, **government**, and **tech** sectors, combining strong analytical skills with a creative approach to data storytelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technical Toolkit
+
+- **Tableau** (Desktop / Server / Prep)  
+- **Power BI**  
+- **Alteryx Designer**  
+- **SQL**  
+- **Python**
+
+---
+
+### 🎯 Focus Areas
+
+- Business intelligence & dashboard development  
+- Workflow automation and data preparation  
+- Visual storytelling & insights communication  
+- Empowering non-technical audiences through accessible data solutions  
+
+---
+
+### 📜 Certifications
+
+- **Alteryx Designer Core & Advanced**  
+- **Tableau Certified Data Analyst**  
+- **Microsoft Certified: Power BI Data Analyst Associate**
+
+---
+
+### 🤝 Let’s Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/volha-fiadotava/)
+
